@@ -1,5 +1,5 @@
 
-import javafx.animation.Interpolator;
+//import javafx.animation.Interpolator;
 import javafx.animation.Timeline;
 import javafx.animation.TranslateTransition;
 import javafx.application.Application;
